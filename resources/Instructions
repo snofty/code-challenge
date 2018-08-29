@@ -1,0 +1,17 @@
+GE Code challenge instructions
+
+Write a program that does the following:
+
+1. Will read the text from the two provided files (great_expectations.txt, war_and_peace.txt)
+2. cleans the text of special characters
+3. removes common stopwords from the file (included in stopwords.txt)
+4. counts the usage frequency of unique words
+5. reports the top 10 words
+
+Order of importance when writing code:
+
+1. functionality
+2. code maintainability
+3. speed
+
+Send back the source code with instructions on how to build and run, along with the output for both files
